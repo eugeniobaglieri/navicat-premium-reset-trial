@@ -2,6 +2,9 @@
 
 This script allows you to reset the remaining trial days for Navicat Premium versions 15, 16, and 17 on macOS.
 
+Copy Navicat.app into Applications folder to reset and launch Navicat Premium automatically
+Navicat.app can be edited with Automator app
+
 ## Warning
 
 This script is intended for educational purposes only. Please support the developers by purchasing a Navicat license from the [official website](https://www.navicat.com/).
